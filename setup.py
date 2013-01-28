@@ -19,7 +19,7 @@ setup(
     entry_points="""
         [tw2.widgets]
         # Register your widgets so they can be listed in the WidgetBrowser
-        widgets = tw2.jquery
+        widgets = tw2.ckeditor
     """,
     keywords = [
         'toscawidgets.widgets',
